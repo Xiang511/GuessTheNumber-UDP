@@ -15,6 +15,13 @@
 - 客戶端得到回覆(?A?B)
 - 以此類推直到猜中正確答案
 - 顯示花費多少時間
+## Installation
+```
+Option 1. Using Git Fork
+```
+```
+Option 2. Download Zip
+```
 
 ## Usage
 
